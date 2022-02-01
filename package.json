@@ -1,0 +1,20 @@
+{
+  "name": "studying-node-cron",
+  "version": "1.0.0",
+  "description": "A study case with NodeJS to use and learning about node-cron and cron jobs.",
+  "main": "index.js",
+  "repository": "git@github.com:FelipePardim/studying-node-cron.git",
+  "author": "FelipePardim <felipesantos.2017@alunos.utfpr.edu.br>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "nodemon ./index.js localhost"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-cron": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
