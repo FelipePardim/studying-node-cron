@@ -23,8 +23,6 @@
 - [Installation](#installation).
 - [How to use](#how-to-use).
     - [Running server](#running-server).
-    - [Running web application](#running-web).
-    - [Running mobile app](#running-mobile).
 - [Technologies](#technologies).
 - [License](#license).
 - [Author](#author).
